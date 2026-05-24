@@ -1,6 +1,6 @@
 """
 Tarea 5: Sonido estéreo y ficheros WAVE
-Nombre y apellidos: Fulano Mengano Zutano
+Nombre y apellidos: Pau Lozano Danes
 """
 
 import struct
